@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Hello world 测试页面"
 date:   2023-08-05 23:00:00 +0800
 categories: 内容
